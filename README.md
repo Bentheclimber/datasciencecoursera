@@ -9,6 +9,6 @@ This is a small section to explain the logic in order once a repo has been creat
 * Navigate to the local repo in Gitbash
 * git pull origin master - Pulls all github files to local repo.
 * Make changes using notepad
-* git add . - (Don't foget the space before the full stop!) Adds the changes.
+* git add . - (Don't forget the space before the full stop!) Adds the changes.
 * git commit -m "message on update" - Commits the changes ready to pull.
 * git pull origin master - Updates Github with all the changes made.
